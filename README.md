@@ -1,6 +1,6 @@
 # go-cli
 
-Very basic Go cli app that parses a given log file for a provided logging level.
+Basic Go cli app that parses a given log file for a provided logging level.
 
 Usage:
 
